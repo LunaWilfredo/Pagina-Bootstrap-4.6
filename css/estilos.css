@@ -1,0 +1,51 @@
+html{
+    font-size: 15px;
+}
+/* Estilos bloque bienveidos */
+.bienvenidos{
+    background: url("../img/12993404_923384331116285_1562061556311686993_n.jpg") !important;
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    overflow: hidden;
+    margin-top: 0px;
+}
+header{
+     font-size: 1.5rem;
+}
+.texto-bienvenido{
+    margin-top: 50%;
+    color: black;
+}
+.texto-bienvenido h1{
+    font-size: 50px;
+}
+/* bloque quienes somos */
+.quienes-somos{
+    background: gray !important;
+    color: white;
+    height: 80vh;
+}
+.btn-danger{
+    text-transform: uppercase;
+}
+/* bloque servicios */
+.servicios{
+    background: black !important;
+    color: white;
+    /* height: 100vh; */
+}
+.servicios .fab,.fas{
+    color: gray;
+    font-size: 6rem;
+}
+/* Seccion porfolio */
+.portafolio{
+    background: gray !important;
+    color: white;
+}
+/* bloque pie de pagina */
+footer{
+    color: white;
+    background: black !important;
+}
